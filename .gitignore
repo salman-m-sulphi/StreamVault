@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.exe
+*.previous
+*.new
+.env*
+client_secret*.json
+credentials*.json
+*token*.json
+settings.json
+dependencies.json
+cookies*.txt
+cat-analysis/
