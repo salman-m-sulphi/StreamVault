@@ -4,7 +4,7 @@ A Windows desktop application for downloading media you are authorized to save, 
 
 ## Credits
 
-- **Version 1: Nikhil Joji** — original StreamVault application.
+- **Version 1: [Nikhil Joji (@NikJoj)](https://github.com/NikJoj)** — original StreamVault application.
 - **Updated version / Version 2: Salman M Sulphi** — created with assistance from GPT (OpenAI), building on the original application's concept and workflow.
 
 This repository contains the updated Python implementation. It does not contain the original Version 1 source code.
